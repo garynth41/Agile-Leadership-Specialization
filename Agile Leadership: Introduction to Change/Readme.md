@@ -11,8 +11,18 @@ This is a foundational course in the Agile Leadership Specialization. By the end
 - Compare and contrast traditional and agile organizations
 
 # Instructor
-Oxana Trotsenko
+Oxana Trotsenko<br>
 Lecturer
 
-#  of Colorado System
+# University of Colorado System
 The University of Colorado is a recognized leader in higher education on the national and global stage. We collaborate to meet the diverse needs of our students and communities. We promote innovation, encourage discovery and support the extension of knowledge in ways unique to the state of Colorado and beyond.
+
+
+
+
+
+
+
+
+
+
