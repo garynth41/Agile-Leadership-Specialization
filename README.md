@@ -49,10 +49,12 @@ In this course, you will learn what influences human behavior in teams by lookin
 
 # COURSE 4
 Agile Organization
+
 The theory of Agile is simple. However, it takes experience, knowledge, and expertise to scale it successfully. In this course, you will focus on leading change at an organizational level and scaling Agile appropriately. When studying Agile application success stories and theory, it's easy to think in terms of adopting "best practices." However, what's best for one industry, company, and most importantly, culture is not always the best for another. Not every aspect of the business is suitable for the application of Agile. Not every organization will benefit from adopting Agile, and not every leader will facilitate yet another change to success. In this course, you will be introduced to seven different change management theories and learn how to best use and apply them in practice. You will also learn how to scale Agile in your organization, what to look for when looking for best use cases, and what signs serve as clear indicators that Agile is not an appropriate philosophy to apply.
 
 # COURSE 5
 Agile Leadership Capstone
+
 In this course, you will apply the knowledge and tools gained in previous courses and "bring it all together". You will develop a strategy and design a tactical plan for leading transformation at the leader, team, and organizational level simultaneously. In addition, you will develop a visual map of your personal, your team’s, and your organization’s journey.
 
 # Instructor
